@@ -75,12 +75,12 @@
 	}
 	.centro{
 		position: absolute;
-		font-size:18px;
-		top:50px; 		
-		width: 20%;
-		background-color: white;
+    		top: 50%;
+    		font-size: 18px;
+    		width: 20%;
+    		background-color: white;
 		border: 1px solid #ffcfff;
-		margin-left: 40%;
+   		margin: 0 40%
 			
 
 	}
